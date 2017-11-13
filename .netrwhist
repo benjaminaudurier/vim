@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/baudurier'
+let g:netrw_dirhist_2='/home/baudurier/Documents'
+let g:netrw_dirhist_3='/home/baudurier/Documents/LHCb_tuto'
+let g:netrw_dirhist_4='/home/baudurier'
+let g:netrw_dirhist_5='/home/baudurier/Documents/LHCb_tuto'
